@@ -74,7 +74,7 @@ Restart Home Assistant.
 
 ## Configure the integration:
 
-To install this integration you will need a Google Refresh Token which you can get by following the instructions at: https://www.angelod.com/onhubauthtool
+To install this integration you will need a Google Refresh Token which you can get by following the instructions at: https://chrome.google.com/webstore/detail/onhub-authorization-helpe/ecgfhpjmkenogpckhiimbnkkmjgmdnkp
 
 Note that using the Chrome Plugin is much easier.
 
